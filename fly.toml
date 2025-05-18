@@ -1,1 +1,1 @@
-app = "wine-quality-prediction-main"
+pip install flask joblib numpy
